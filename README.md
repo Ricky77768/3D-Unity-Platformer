@@ -1,5 +1,8 @@
 # 3D-Unity-Platformer
 A 3D Parkour/Shooter hybrid game currently being developed using the <a href="https://unity.com/">Unity</a> game engine. 
+
+![Game Demo](https://gfycat.com/idealisticwaterycaecilian)
+
 <br>
 <br>
 ## About The Game
@@ -14,6 +17,7 @@ Some features:
   * Wall-running and wall-jumping
   * Sliding down slopes
 * Standard hitscan rifle
+* Pressure pads and shootable switches that alter the level environment
 * Customizable keybinds, mouse sensitivity, and video settings in the in-game menu
 
 ## How To Play
