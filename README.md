@@ -1,7 +1,7 @@
 # 3D-Unity-Platformer
 A 3D Parkour/Shooter hybrid game currently being developed using the <a href="https://unity.com/">Unity</a> game engine. 
 
-<iframe src='https://gfycat.com/ifr/IdealisticWateryCaecilian' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
+![Game Demo](https://thumbs.gfycat.com/IdealisticWateryCaecilian-size_restricted.gif)
 
 <br>
 <br>
