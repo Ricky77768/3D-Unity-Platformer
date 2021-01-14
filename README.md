@@ -1,4 +1,4 @@
-# 3D-Unity-Platformer
+# 3D Unity Platformer
 A 3D Parkour/Shooter hybrid game currently being developed using the <a href="https://unity.com/">Unity</a> game engine. 
 
 ![Demo of Game](https://thumbs.gfycat.com/IdealisticWateryCaecilian-size_restricted.gif)
