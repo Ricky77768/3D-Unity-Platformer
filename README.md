@@ -3,9 +3,6 @@ A 3D Parkour/Shooter hybrid game currently being developed using the <a href="ht
 
 ![Demo of Game](https://thumbs.gfycat.com/IdealisticWateryCaecilian-size_restricted.gif)
 
-<br>
-<br>
-
 ## About The Game
 A first-person 3D game developed using C# and the Unity game engine. It is a hybrid of a parkour/platforming game and a first-person shooter game. It is currently unfinished; so far having the Tutorial level has been constructed. The objective of the game is to traverse through different levels to try to reach the end. There are many obstacles and challenges to overcome throughout each level. 
 <br>
