@@ -1,5 +1,7 @@
 # 3D Unity Platformer
-A 3D Parkour/Shooter hybrid game currently being developed using the <a href="https://unity.com/">Unity</a> game engine. 
+### Status: Stopped Working on it (Hardware Limitations)
+
+A 3D Parkour/Shooter hybrid prototype developed using the <a href="https://unity.com/">Unity</a> game engine with two others.
 
 ![Demo of Game](https://thumbs.gfycat.com/IdealisticWateryCaecilian-size_restricted.gif)
 
