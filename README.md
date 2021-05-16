@@ -1,5 +1,5 @@
 # 3D Unity Platformer
-### Status: Stopped Working on it (Hardware Limitations)
+### Status: Work in Progress
 
 A 3D Parkour/Shooter hybrid prototype developed using the <a href="https://unity.com/">Unity</a> game engine with two others.
 
